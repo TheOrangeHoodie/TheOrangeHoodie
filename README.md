@@ -1,5 +1,6 @@
 # 💫 About Me:
-🤓 I'm interested in backend developement.<br>🍃 I'm currently learning Spring
+⚙️ Im a passionate developer with a rich techstack
+🔝 Im now mainly working on roblox games.
 
 
 ## 🌐 Socials:
@@ -10,10 +11,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheOrangeHoodie&icon=6&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-TheOrangeHoodie/TheOrangeHoodie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
