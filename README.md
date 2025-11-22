@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚙️ Im a passionate developer with a rich techstack
+⚙️ Im a passionate developer with a rich techstack <br>
 🔝 Im now mainly working on roblox games.
 
 
