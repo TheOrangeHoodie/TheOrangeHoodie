@@ -1,6 +1,6 @@
 # 💫 About Me:
 ⚙️ Im a passionate developer with a rich techstack <br>
-🔝 Im now mainly working on roblox games.
+🔝 Im now mainly working on roblox games and robotics.
 
 
 ## 🌐 Socials:
